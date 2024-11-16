@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Xiaowei Zhang's Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,9 @@ redirect_from:
 
 **Welcome to my personal website. I am on the 2024-2025 job market.**
 
-My research investigates how companies collaborate within innovation platforms, such as app stores or video game consoles, and how their actions influence a platform’s overall success. I focus on the relationship between the platform owner, who builds and manages the platform, and the companies (complementors) that provide products and services on it. Central to my work is understanding a platform owner’s role in ensuring value co-creation within the platform to achieve the platform ecosystem’s sustained growth. In my dissertation, I investigate how changes over time in the category strength—indicating the overall appeal of a category to complementors—influence key outcomes: which categories the platform owner chooses to enter (paper 1), how complementors respond to these entries (paper 2; JMP), and whether platform owners or complementors are more likely to take risks in developing novel products (paper 3).
+My dissertation centers on the phenomenon of platform owners’ entry into complementary product markets, a practice I term first-party complement provision. The practice refers to a platform owner offering its own complements alongside those of complementors, as seen with Sony releasing in-house games for PlayStation. Frist-party complement provision is common across platform-mediated markets, including e-commerce and phone application ecosystems. While existing studies primarily emphasize the potential threats posed by first-party complement provision due to such as the platform owner’s control over platform architecture, the core message of my dissertation is that platform owners can leverage this practice to shape market conditions for both private benefit and collective value co-creation—creating, in effect, “a rising tide that lifts all boats.”
+
+My dissertation addresses three core research questions. In the first paper, I ask, “Which product categories does a platform owner enter, and under what conditions?” This study seeks to resolve why, despite relying on complementors, platform owners still enter product categories that put them in competition with their complementors. In the second paper, I examine “How do complementors respond to these entries based on changes in category strength?” The category strength refers to the general appeal of a category to complementors. Stronger category appeals to complementors due to factors such as potential higher customer demands in the category. Here, I analyze the number of new complements released by third-party publishers. The third paper explores “Whether platform owners or complementors are more likely to take risks in developing novel products,” considering changes in category strength.
 
 My co-supervisors are Emeritus Professor Niels Noorderhaven and Professor Xavier Martin.
 

@@ -21,10 +21,10 @@ repository: "XiaoweiOfficial/XiaoweiOfficial.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
+  avatar: "profile.jpg"
   name: "Xiaowei"
   pronouns: # example: "she/her"
-  bio: "Strategy & Entrepreneurship Ph.D. Student"
+  bio: "Strategy Ph.D. Student"
   location: "Tilburg, the Netherlands"
   employer: "Tilburg University"
   uri: # URL
