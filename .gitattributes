@@ -1,0 +1,25 @@
+# Normalize line endings.
+# Git stores text files with LF internally and checks them out with LF.
+# This keeps diffs clean regardless of the editor or OS used.
+
+* text=auto eol=lf
+
+# Explicitly mark binaries so Git never rewrites their bytes.
+*.pdf   binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.ico   binary
+*.woff  binary
+*.woff2 binary
+*.ttf   binary
+*.eot   binary
+*.otf   binary
+*.zip   binary
+
+# Keep these out of GitHub's language statistics so the repo is
+# reported as the site it is, not as the theme it was forked from.
+_sass/vendor/**   linguist-vendored
+assets/js/vendor/** linguist-vendored
+talkmap/leaflet_dist/** linguist-vendored
