@@ -12,6 +12,11 @@ Gemfile.lock
 node_modules
 package-lock.json
 
+# The editable CV source. Kept in this folder so it sits next to the site and
+# is backed up by OneDrive, but not committed: only the exported PDF in files/
+# is meant to be public. Edit this in Word, re-export to files/Zhang-Xiaowei-CV.pdf.
+/Zhang-Xiaowei-CV.docx
+
 # Ignore OS and editor cruft
 .DS_Store
 ._*
