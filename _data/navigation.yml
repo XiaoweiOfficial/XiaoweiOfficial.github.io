@@ -1,30 +1,16 @@
-# The following is the order of the links in the header of the website.
+# The order of the links in the site header.
 #
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
+# Removing a link hides it from the header but does not remove the page itself.
+# /publications/ is deliberately not listed: the single pre-doctoral article is
+# shown in a section of the Research page instead, and the page is kept only so
+# that any existing link to it still resolves.
 
 main:
-  # - title: "Talks"
-  #   url: /talks/
-
   - title: "Research"
     url: /research/
 
-  # - title: "Teaching"
-  #   url: /teaching/
-
-  - title: "Publications"
-    url: /publications/
-
-  # - title: "Portfolio"
-  #   url: /portfolio/
-
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "CV"
     url: /cv/
-
-  # - title: "Guide"
-  #   url: /markdown/

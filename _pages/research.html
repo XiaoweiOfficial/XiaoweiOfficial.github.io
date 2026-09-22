@@ -13,8 +13,7 @@ complementors respond, and how category-level conditions shape both. My main emp
 setting is the U.S. console video game industry; I am extending this work to intelligent and
 connected vehicles and other platform ecosystems.</p>
 
-<p>For published work, see my <a href="{{ base_path }}/publications/">publications</a>.
-Full details are in my <a href="{{ base_path }}/files/Zhang-Xiaowei-CV.pdf">CV</a>.</p>
+<p>Full details are on my <a href="{{ base_path }}/cv/">CV</a>.</p>
 
 <!--
   Sections are rendered in the order listed below rather than alphabetically, so the
@@ -33,3 +32,12 @@ Full details are in my <a href="{{ base_path }}/files/Zhang-Xiaowei-CV.pdf">CV</
     {% endfor %}
   {% endif %}
 {% endfor %}
+
+{% if site.publications.size > 0 %}
+  <h2>Earlier Publication</h2>
+  <hr />
+  <p>Written during my Research Master, before the platform research above.</p>
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}

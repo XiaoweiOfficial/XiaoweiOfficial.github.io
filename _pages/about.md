@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xiaowei Zhang"
+title: "Xiaowei Zhang (张晓伟)"
 author_profile: true
 redirect_from: 
   - /about/

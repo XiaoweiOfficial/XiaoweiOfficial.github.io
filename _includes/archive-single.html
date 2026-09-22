@@ -39,7 +39,10 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <!-- The teaching page groups by institution, so the venue is already in
+               the heading above. `term` carries the actual terms taught, which a
+               single year from `date` cannot express (e.g. "Fall 2025, Fall 2026"). -->
+          <p>{{ post.type }}{% if post.term %} &middot; {{ post.term }}{% else %}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}{% endif %}</p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'research' %}

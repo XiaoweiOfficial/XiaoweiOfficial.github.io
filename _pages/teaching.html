@@ -7,6 +7,23 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+<p>I teach strategy, introduction to business, technology management, and
+international business. At CUNEF Universidad I currently teach two undergraduate
+courses, both in English.</p>
+
+<!--
+  Grouped by institution rather than listed flat, newest first within each group.
+  A teaching entry's `venue` must match one of these strings exactly to appear.
+-->
+{% assign venue_order = "CUNEF Universidad|Tilburg University|Erasmus University Rotterdam" | split: "|" %}
+
+{% for venue in venue_order %}
+  {% assign items = site.teaching | where: "venue", venue | sort: "date" | reverse %}
+  {% if items.size > 0 %}
+    <h2>{{ venue }}</h2>
+    <hr />
+    {% for post in items %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endif %}
 {% endfor %}

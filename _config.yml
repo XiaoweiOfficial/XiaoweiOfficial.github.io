@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale: "en-US"
-title: "Xiaowei Zhang / 张晓伟"
+title: "Xiaowei Zhang | CUNEF Universidad"
 title_separator: "-"
 name: &name "Xiaowei Zhang"
-description: &description "Assistant Professor of Strategic Management at CUNEF Universidad, Madrid. Research on digital platform strategy, business ecosystems, and innovation."
+description: &description "Assistant Professor of Strategic Management at CUNEF Universidad, Madrid. Ph.D. from Tilburg University. Digital platform strategy, business ecosystems, innovation."
 url: https://XiaoweiOfficial.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "XiaoweiOfficial/XiaoweiOfficial.github.io"
