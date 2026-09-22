@@ -11,8 +11,7 @@ redirect_from:
 
 [Download as PDF]({{ base_path }}/files/Zhang-Xiaowei-CV.pdf){: .btn}
 
-Expertise
-======
+## Expertise
 
 **Research:** strategy, innovation, digital platforms, business ecosystems.
 
@@ -20,14 +19,12 @@ Expertise
 
 **Teaching:** strategy, introduction to business, technology management, introduction to international business.
 
-Appointment
-======
+## Appointment
 
 **CUNEF Universidad**, Madrid, Spain — School of Business, Economics and Law, Management Department
 : Assistant Professor of Strategic Management, 2025–present.
 
-Education
-======
+## Education
 
 **Tilburg University**, Tilburg, Netherlands
 : Ph.D., Tilburg School of Economics and Management, Department of Management, 2026 (expected).
@@ -43,15 +40,13 @@ Education
 : Visiting Ph.D. student, Department of Strategy, IE Business School, Madrid, August–December 2023. Host: Juan Santaló.
 : Exchange student, Stephen M. Ross School of Business, University of Michigan, September–December 2018.
 
-Recognition
-======
+## Recognition
 
 * Best Paper Proceeding for "Category Conditions and Strategic Entry: Unveiling the Motives for Platform Owner Entry," Academy of Management Annual Meeting, 2025.
 * Distinction, Research Master in Strategy & Organization, Tilburg University, 2021.
 * Cum Laude, Bachelor in International Business Administration, Rotterdam School of Management, Erasmus University Rotterdam, 2019.
 
-Research
-======
+## Research
 
 A full description of each project is on my [research page]({{ base_path }}/research/).
 
@@ -75,8 +70,7 @@ A full description of each project is on my [research page]({{ base_path }}/rese
 * Zhang, X., & Li, Y. Personalized recommendation and complementor diversification: Evidence from a social media platform.
 * Zhang, X., & Li, J. First Amendment and the video game industry.
 
-Research Grants
-======
+## Research Grants
 
 **External**
 
@@ -88,8 +82,7 @@ Research Grants
 * Research Visit Funding, Tilburg School of Economics and Management, Tilburg University, €5,000, 2023.
 * Koopmans Scholarship, Tilburg University, €24,000, 2019–2021.
 
-Conference Presentations
-======
+## Conference Presentations
 
 * Academy of Management Annual Meeting, Copenhagen, Denmark, July 2025 — *Category conditions and strategic entry* (Best Paper Proceeding).
 * Academy of Management Annual Meeting, Copenhagen, Denmark, July 2025 — Presenter Symposium.
@@ -110,8 +103,7 @@ Conference Presentations
 * VU Ecosystem Hub, Vrije Universiteit Amsterdam, April 2025.
 * Brownbag Seminar, Department of Management, Tilburg University, May 2023.
 
-Teaching
-======
+## Teaching
 
 Course descriptions and student evaluations are on my [teaching page]({{ base_path }}/teaching/).
 
@@ -129,8 +121,7 @@ Course descriptions and student evaluations are on my [teaching page]({{ base_pa
 : Technology Management (project supervision), 2019.
 : Applied Business Methods (statistics tutorials), 2019.
 
-Service
-======
+## Service
 
 **Conference organization**
 
@@ -151,8 +142,7 @@ Service
 * Internship supervisor, 2026.
 * Exam supervisor, 2025–2026.
 
-Professional Development
-======
+## Professional Development
 
 * SMJ Dissertation Paper Workshop, Strategic Management Society Annual Meeting, Istanbul, October 2024.
 * AOM STR Dissertation Consortium "The Job Market and Beyond," online, August 2024.
@@ -164,8 +154,7 @@ Professional Development
 * Professional Development Workshop, Amsterdam Digital Transformation Lab, University of Amsterdam, April 2022.
 * UZH PhD Workshop "Contributing to the Strategy Literature," University of Zurich, October 2021. Convened by Hart Posen.
 
-Skills
-======
+## Skills
 
 **Languages:** Mandarin Chinese (native); English (fluent; language of instruction for all degrees).
 
