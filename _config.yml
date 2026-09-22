@@ -44,7 +44,10 @@ author:
   bitbucket: # Username - Update with your username on the site
   codepen: # Username
   dribbble: # Username
-  github: "XiaoweiOfficial" # Username
+  github: # Username. Left empty on purpose: the account only hosts this site,
+          # so a visible link would lead somewhere thin. The profile is still
+          # declared under social.links below, where it helps search engines
+          # resolve identity without being shown to visitors.
   kaggle: # Username
   stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 

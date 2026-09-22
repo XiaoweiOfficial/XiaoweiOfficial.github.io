@@ -63,6 +63,13 @@
         <li><a href="{{ author.scopus }}"><i class="ai ai-scopus icon-pad-right"></i>Scopus</a></li>
       {% endif %}
 
+      <!-- LinkedIn is moved up out of the "Social media" group below: for an
+           academic it is a professional profile, not a social account, and
+           belongs beside the research profiles rather than after the code hosts. -->
+      {% if author.linkedin %}
+        <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>LinkedIn</a></li>
+      {% endif %}
+
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket icon-pad-right" aria-hidden="true"></i>Bitbucket</a></li>
@@ -110,9 +117,6 @@
       {% endif %}      
       {% if author.lastfm %}
         <li><a href="https://last.fm/user/{{ author.lastfm }}"><i class="fab fa-fw fa-lastfm icon-pad-right" aria-hidden="true"></i>Last.fm</a></li>
-      {% endif %}      
-      {% if author.linkedin %}
-        <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>LinkedIn</a></li>
       {% endif %}      
       {% if author.mastodon %}
         <li><a href="{{ author.mastodon }}"><i class="fab fa-fw fa-mastodon icon-pad-right" aria-hidden="true"></i>Mastodon</a></li>
