@@ -56,10 +56,10 @@ A full description of each project is on my [research page]({{ base_path }}/rese
 
 **Working papers**
 
-* Zhang, X. [A Novel Contingency for Platform Owner Entry] (title anonymized for double-blind review). First-round revise and resubmit, *Strategic Management Journal*.
-* Zhang, X., Martin, X., & Noorderhaven, N. Category conditions and strategic entry: Unveiling the motives for platform owner entry. Targeted at *Strategic Management Journal*.
-* Zhang, X., Martin, X., & Noorderhaven, N. Within-category repositioning given benchmark multiplicity. Targeted at *Organization Science*.
-* Zhang, X., Martin, X., & Noorderhaven, N. Alliance portfolio and platform adoption. Targeted at *Strategy Science*.
+* Zhang, X., Martin, X., & Noorderhaven, N. [A Novel Contingency for Platform Owner Entry] (title anonymized for double-blind review). First-round revise and resubmit, *Strategic Management Journal*.
+* Zhang, X., & Martin, X. Category conditions and strategic entry: Unveiling the motives for platform owner entry. Targeted at *Organization Science*.
+* Zhang, X., & Martin, X. Within-category repositioning given benchmark multiplicity. Targeted at *Organization Science*.
+* Zhang, X., & Martin, X. Alliance portfolio and platform adoption. Targeted at *Strategy Science*.
 * Wang, J., Qu, X., & Zhang, X. Match, simplify, or expand: Salient market events and subsequent entrepreneurial entries in differentiated product spaces.
 * Lu, Q., Zhang, X., & Park, M. Organizing routines and capabilities for green transitions.
 
